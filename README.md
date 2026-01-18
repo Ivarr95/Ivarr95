@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a **Quality Assurance (QA)** Engineer with experience in **automotive embedded software**, currently focused on  transitioning into and developing within the **web development** field. My passion lies in ensuring and enhancing the quality of processes and methodologies in technology projects. <br>
+I consider myself **methodical**, **analytical**, with a **solution-oriented mindset** and a **strong collaborative spirit**. I maintain a constant commitment to learning new technologies and the continuous improvement of my professional skills. <br>
+My professional background has provided me with experience in various **testing methodologies**, including **manual testing**, **automated testing**, **smoke testing**, **regression testing** and **functional testing**. Most of my work has followed **Agile/Scrum frameworks**, ensuring quality in iterative development cycles. 
+
+Check my portfolio: [ivarr95.github.io](https://ivarr95.github.io)
 <!--
 **Ivarr95/Ivarr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
